@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/db_bench.dir/util/histogram.cc.o CMakeFiles/db_bench.dir/util/testharness.cc.o CMakeFiles/db_bench.dir/util/testutil.cc.o CMakeFiles/db_bench.dir/db/db_bench.cc.o -o db_bench  -Wl,-rpath,/usr/local/lib64 libleveldb.a /usr/local/lib64/libpmem.so /usr/local/lib64/libpmemblk.so /usr/local/lib64/libpmemobj.so 

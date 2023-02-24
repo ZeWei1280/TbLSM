@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/recovery_test.dir/util/testharness.cc.o CMakeFiles/recovery_test.dir/util/testutil.cc.o CMakeFiles/recovery_test.dir/db/recovery_test.cc.o -o recovery_test  -Wl,-rpath,/usr/local/lib64 libleveldb.a /usr/local/lib64/libpmem.so /usr/local/lib64/libpmemblk.so /usr/local/lib64/libpmemobj.so 

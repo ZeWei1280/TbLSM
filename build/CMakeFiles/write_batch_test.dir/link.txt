@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/write_batch_test.dir/util/testharness.cc.o CMakeFiles/write_batch_test.dir/util/testutil.cc.o CMakeFiles/write_batch_test.dir/db/write_batch_test.cc.o -o write_batch_test  -Wl,-rpath,/usr/local/lib64 libleveldb.a /usr/local/lib64/libpmem.so /usr/local/lib64/libpmemblk.so /usr/local/lib64/libpmemobj.so 
